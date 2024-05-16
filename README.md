@@ -40,6 +40,6 @@ To install V2Ray VPN on your Android device, follow these steps:
 
 ## Contact
 
-If you have any questions or need assistance, please reach out to our support team at [beethoven.elite.dev@gmail.com](mailto:beethoven.elite.dev@gmail.com).
+If you have any questions or need assistance, please reach out to our support team at [ishihara.yuudai727@gmail.com](mailto:ishihara.yuudai727@gmail.com).
 
 Protect your online privacy with V2Ray VPN – your trusted mobile VPN solution.
